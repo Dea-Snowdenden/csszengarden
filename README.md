@@ -10,6 +10,12 @@ smaller space. We are living in a small world with infinite ideas. Below are the
 
 website.
 
+The emphasis of this css zengarden is to show the power of keyframes which is one of the wonderful things in CSS.
+
+Keframes specify the animation code. The animation happens whenever there is change of the CSS set of code. 
+
+O% is the start of the animation and then it can be transformed up to 100% completion. 
+
 ![alt-text](zengarden2.png)
 
 ![alt-text](zengarden3.png)
