@@ -1,0 +1,66 @@
+@keyframes fadeIn {
+  100% {
+    opacity: 1; } }
+
+@keyframes popIn {
+  0% {
+    transform: scale(0); }
+  5% {
+    opacity: 1;
+    transform: scale(1.05); }
+  10% {
+    opacity: 1;
+    transform: scale(1.05); }
+  20% {
+    opacity: 1;
+    transform: scale(1.05); }
+  30% {
+    opacity: 1;
+    transform: scale(1.05); }
+  40% {
+    opacity: 1;
+    transform: scale(1.05); }
+  50% {
+    opacity: 1;
+    transform: scale(1.05); }
+  60% {
+    opacity: 1;
+    transform: scale(1.05); }
+  80% {
+    transform: scale(0.95); }
+  100% {
+    transform: scale(1);
+    opacity: 1; } }
+
+body {
+  color: #fff;
+  text-align: center;
+  margin: 0px;
+  font-size: 8pt;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+body{
+  background-image: url('https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528_960_720.jpg');
+  background-size: cover;
+  opacity: 80%;
+  text-align: center;
+}
+h1{
+  font-size: 3em;
+  text-shadow: 2px 2px 2px #2;
+}
+h2{
+  font-size: 3em;
+}
+h3{
+  font-size: 2.5em;
+}
+p{
+  font-size: 1.5em;
+}
+li{
+  font-size: 1.5em;
+}
